@@ -17,7 +17,7 @@
 Place both files inside a `data/` folder in the root of the repository.
 
 
-## 📝 Exercises Overview
+## Exercises Overview
 
 ### `assignment_numpy.ipynb`
 
